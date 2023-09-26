@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.left1{
+    padding-right:114px;
+}
+.left2 {
+    padding-right: 116px;
+    margin-top: 22px;
+}
+.contenth{
+    color: #133063;
+    font-size: 30px; 
+    font-family: Inter;
+    font-weight: 600;
+    line-height: 30px;
+    word-wrap: break-word
+}
+.contentH{
+    color: #133063;
+    font-size: 44px;
+    font-family: Inter;
+    font-weight: 600;
+    line-height: 48.40px;
+    word-wrap: break-word
+}
+.leftp{
+    color: #87878A;
+    font-size: 15px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 21px;
+    word-wrap: break-word;
+}
+.left{
+    margin-left:100px;
+}
+.right{
+    margin-right:100px;
+}
+.hero2{
+    background-color:#F3F5FA;
+    padding-left:100px;
+    max-height:275px;
+}
+.py-24 {
+    padding-top: 1rem;
+    padding-bottom: 6rem;
+}
+
+.hero2text{
+    color:gray;
+}
